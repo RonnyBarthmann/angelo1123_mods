@@ -1,0 +1,17 @@
+https://github.s3.amazonaws.com/downloads/xyzz/minetest-mods/sethome.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190514T182900Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=f77530e4742e8ae06f557d605eb35feaf9a9810b9208f0e2f20f191da26ecc44
+https://codeload.github.com/minetest-mods/irc/zip/master
+https://codeload.github.com/Ezhh/abriglass/zip/master
+https://codeload.github.com/stujones11/minetest-3d_armor/zip/version-0.4.13
+https://codeload.github.com/minetest-mods/xdecor/zip/master
+https://codeload.github.com/minetest-mods/areas/zip/master
+https://notabug.org/TenPlus1/ethereal/archive/master.zip
+https://codeload.github.com/minetest-mods/moreblocks/zip/master
+https://codeload.github.com/minetest-mods/moreores/zip/master
+https://notabug.org/TenPlus1/protector/archive/master.zip
+https://github.s3.amazonaws.com/downloads/Bad-Command/teleporter/teleporter-1.07.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190514T183408Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=abd8e757206b1be1775765c7212300fe57a794fc323e63af3e84cf9cb5183283
+https://codeload.github.com/Sokomine/travelnet/legacy.zip/master
+https://codeload.github.com/minetest-mods/xban2/zip/master
+https://codeload.github.com/minetest-mods/unified_inventory/zip/master
+https://codeload.github.com/Uberi/Minetest-WorldEdit/legacy.zip/master
+https://codeload.github.com/minetest-mods/maptools/zip/master
+https://codeload.github.com/minetest-mods/carpets/zip/master
