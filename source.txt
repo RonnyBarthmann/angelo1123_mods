@@ -17,3 +17,4 @@ https://codeload.github.com/minetest-mods/maptools/zip/master
 https://codeload.github.com/minetest-mods/carpets/zip/master
 https://codeload.github.com/dmonty2/minetest-u_skinsdb/zip/master
 https://codeload.github.com/Cat5TV/tps_teleport/zip/master
+https://codeload.github.com/runsy/petz/zip/master
